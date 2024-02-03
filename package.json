@@ -1,0 +1,24 @@
+{
+  "name": "cleanresidence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Flazioney O.",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "flash": "^1.1.0",
+    "nodemon": "^3.0.3",
+    "path": "^0.12.7",
+    "pg": "^8.11.3"
+  }
+}
